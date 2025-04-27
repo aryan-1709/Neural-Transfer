@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tensorflow
+torch
+torchvision
+Pillow
+scipy
+jupyter
+ipykernel
